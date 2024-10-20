@@ -1,0 +1,18 @@
+/* Cambiar el color de fondo de la página */
+body {
+    background-color: #f0f0f0; /* Color gris claro */
+    font-family: Arial, sans-serif; /* Cambiar la fuente */
+    color: #333; /* Color del texto */
+    margin: 0;
+    padding: 20px;
+}
+
+/* Estilo para encabezados */
+h1 {
+    color: #4CAF50; /* Color verde */
+}
+
+/* Estilo para párrafos */
+p {
+    line-height: 1.6; /* Espaciado entre líneas */
+}
