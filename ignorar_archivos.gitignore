@@ -1,0 +1,8 @@
+#ignorar archivos temporales
+*.tmp
+*.log
+
+#ignorar archivos específicos de editores
+*.DS_Store
+*.vscode/
+*.sublime-workspace
